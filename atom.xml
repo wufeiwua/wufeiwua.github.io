@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lambdaxyz.xyz/</id>
+    <title>λxyz.xyz</title>
+    <updated>2023-03-11T14:56:35.722Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lambdaxyz.xyz/"/>
+    <link rel="self" href="https://lambdaxyz.xyz/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://lambdaxyz.xyz/images/avatar.png</logo>
+    <icon>https://lambdaxyz.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2023, λxyz.xyz</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是补码]]></title>
+        <id>https://lambdaxyz.xyz/post/bu-ma-de-ben-zhi/</id>
+        <link href="https://lambdaxyz.xyz/post/bu-ma-de-ben-zhi/">
+        </link>
+        <updated>2023-03-11T14:02:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>补码仅仅是一种编码，好处是可以用加法来实现减法的操作，和原码、反码没啥太大的关系</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>补码仅仅是一种编码，好处是可以用加法来实现减法的操作，和原码、反码没啥太大的关系</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 使用 `commons-math3` 的线性和非线性拟合实例，带效果图]]></title>
+        <id>https://lambdaxyz.xyz/post/java-shi-yong-commons-math3-de-xian-xing-he-fei-xian-xing-ni-he-shi-li-dai-xiao-guo-tu/</id>
+        <link href="https://lambdaxyz.xyz/post/java-shi-yong-commons-math3-de-xian-xing-he-fei-xian-xing-ni-he-shi-li-dai-xiao-guo-tu/">
+        </link>
+        <updated>2023-03-11T13:58:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>Java 使用 Apache commons-math 工具实现线性拟合以及非线性拟合的例子</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Java 使用 Apache commons-math 工具实现线性拟合以及非线性拟合的例子</p>
+]]></content>
+    </entry>
+</feed>
